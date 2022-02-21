@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Kraven Daemon</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, I\'m Daemon.
+        \n\nUnrelated placeholder text about the definition of a daemon from wikipedia.
+        \n\nDaimon or Daemon (δαίμων: "god", "godlike", "power", "fate") originally referred to a lesser deity
+        \nor guiding spirit such as the daimons of ancient Greek religion
+        \nand mythology and of later Hellenistic religion and philosophy.
+        \n\nThe word is derived from Proto-Indo-European *daimon
+        \n"provider, divider (of fortunes or destinies)," from the root *da- "to divide".
+        \nDaimons were possibly seen as the souls of men of the golden age acting as tutelary deities,
+        \naccording to entry δαίμων at Liddell \&amp; Scott.
+        \n\nAlso daimonic: a religious, philosophical, literary and psychological concept.
+\n\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
